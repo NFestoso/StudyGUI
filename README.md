@@ -8,5 +8,5 @@ Desktop Q-Card Application -  Written in Java.
 ## Date Created
 February, 2016
 
-# Authors
+#@ Authors
 Nathan Festoso
