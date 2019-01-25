@@ -18,9 +18,14 @@ import java.util.ArrayList;
 import java.util.Random;
 import java.awt.event.ActionEvent;
 
+/**
+ * Displays running quiz to user
+ * 
+ * @author NathanFestoso
+ */
 public class QuizView extends JFrame {
 	private static final long serialVersionUID = 1L;
-	
+
 	// Components
 	private ResultView results;
 	private Quiz quiz;
@@ -185,18 +190,3 @@ public class QuizView extends JFrame {
 
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

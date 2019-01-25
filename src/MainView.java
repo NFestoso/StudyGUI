@@ -90,7 +90,7 @@ public class MainView extends JFrame {
 		int x = (screen.width-width)/2;
 		int y = (screen.height-height)/2;
 		setBounds(x, y, width, height);
-		
+
 		// Window
 		setResizable(false);
 		setTitle("Study");
@@ -116,7 +116,7 @@ public class MainView extends JFrame {
 		quizList.setBorder(new EtchedBorder(EtchedBorder.RAISED, null, null));
 		quizList.setSelectionMode(ListSelectionModel.SINGLE_SELECTION);
 		quizList.setBounds(10, 10, 215, 400);
-		
+
 		// update quiz preview for selected file
 		quizList.addListSelectionListener(new ListSelectionListener() {
 			public void valueChanged(ListSelectionEvent arg0) {

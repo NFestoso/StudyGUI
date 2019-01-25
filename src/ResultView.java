@@ -17,9 +17,14 @@ import javax.swing.JTable;
 import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
 
+/**
+ * Post quiz results
+ * 
+ * @author NathanFestoso
+ */
 public class ResultView extends JFrame {
 	private static final long serialVersionUID = 1L;
-	
+
 	// Visual components
 	private JPanel contentPane;
 	private JLabel title;
