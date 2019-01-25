@@ -1,5 +1,5 @@
 # StudyGUI
-Desktop Q-Card Application -  Written in Java.
+Desktop Q-Card Application -  written in Java
 
 ## Build Environment
 - Eclipse IDE v4.10.0
